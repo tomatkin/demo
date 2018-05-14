@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 
 class Util {
@@ -7,3 +8,6 @@ class Util {
 	}
 	
 }
+=======
+"another unwanted file" 
+>>>>>>> 8d71a48d7d93f90480a9e04048a45e323158ab81
